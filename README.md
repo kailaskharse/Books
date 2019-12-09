@@ -10,3 +10,7 @@ git push -u origin master
 
 #to check Remote server location
 git remote -v
+
+
+#Some Important Links 
+https://elinux.org/Android_Build_System
